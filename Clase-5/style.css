@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+    background-color: aquamarine;
+    height: 300px;
+    justify-content: space-between;
+}
+
+.contenido-1{
+    background-color: wheat;
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.contenido-2{
+    background-color: wheat;
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.contenido-3{
+    background-color: wheat;
+    height: 200px;
+    width: 100px;
+    border: 1px solid black;
+}
