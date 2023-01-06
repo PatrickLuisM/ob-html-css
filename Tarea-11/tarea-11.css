@@ -1,0 +1,19 @@
+.contenedorsm{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+.contenedormd{
+    background-color: green;
+    border: 1px solid black;
+}
+
+.contenedorlg{
+    background-color: palegreen;
+    border: 1px solid black;
+}
+
+.contenedorxl{
+    background-color: brown;
+    border: 1px solid black;
+}
