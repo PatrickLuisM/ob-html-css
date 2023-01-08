@@ -1,0 +1,10 @@
+
+$textcolor: #2b2b2b;
+
+
+@mixin formato-texto($bg-color){
+    width: 50rem;
+    text-transform: uppercase;
+    background-color: $bg-color;
+    color: $textcolor;
+}
